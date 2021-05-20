@@ -1,0 +1,15 @@
+{
+    "choices": [
+      {
+        "finish_reason": "length",
+        "index": 0,
+        "logprobs": null,
+        "text": " a common error encountered by"
+      }
+    ],
+    "created": 1621538425,
+    "id": "cmpl-31iVVerYaMag8GyEWNBQE3mTue0tG",
+    "model": "davinci:2020-05-03",
+    "object": "text_completion"
+  }
+  
